@@ -1,10 +1,9 @@
 Privacy Policy for Mp3 to Mp4 Converter
 
-Last Updated: [Date]
 
 1. Introduction
 
-Welcome to Mp3 to Mp4 Converter, a mobile application developed by [Your Company Name]. This Privacy Policy outlines how we collect, use, and protect the information you provide while using our app. By using Mp3 to Mp4 Converter, you agree to the terms outlined in this policy.
+Welcome to Mp3 to Mp4 Converter, a mobile application developed by Muhammad Sadiq. This Privacy Policy outlines how we collect, use, and protect the information you provide while using our app. By using Mp3 to Mp4 Converter, you agree to the terms outlined in this policy.
 
 2. Information We Collect
 
