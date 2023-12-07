@@ -27,18 +27,23 @@ The information collected is used internally to enhance the functionality and us
 4.2. Ad Personalization:
 
 AdMob may personalize ads based on the information collected. You can manage ad personalization settings on your device.
+
 5. Security Measures
 
 We employ industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, and destruction.
+
 6. Contact Information
 
 For questions or feedback regarding this privacy policy or Mp3 to Mp4 Converter, please contact us at trickswithandro@gmail.com.
+
 7. Changes to the Privacy Policy
 
 We reserve the right to update this privacy policy as needed. Any changes will be posted on this page, and the effective date will be revised accordingly.
+
 8. Consent
 
 By using Mp3 to Mp4 Converter, you consent to the terms outlined in this privacy policy.
+
 9. Explore the Versatility of Mp3 to Mp4 Converter Today!
 
 Thank you for choosing Mp3 to Mp4 Converter. We hope you enjoy the seamless audio-to-video conversion experience our app provides.
